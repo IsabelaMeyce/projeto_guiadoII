@@ -16,7 +16,7 @@ Arquivos que devem ser submetidos:
 - requirements.txt
 - arquivo.csv (ou similar: json, exe, etc) utilizado
 - código de criação e edição do banco de dados (.py ou .ipynb)
-- arquivo .db com entradas de interesse (caso aluna esteja  queira usar outro além de SQLite, alinhar)
+- arquivo .db com entradas de interesse
 - arquivo .ipynb com relatório contendo gráficos e insights sobre dados utilizados.
 
 ## Extra
