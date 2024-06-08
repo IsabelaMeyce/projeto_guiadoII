@@ -16,11 +16,7 @@ Arquivos que devem ser submetidos:
 - requirements.txt
 - arquivo.csv (ou similar: json, exe, etc) utilizado
 - código de criação e edição do banco de dados (.py ou .ipynb)
-<<<<<<< HEAD
 - arquivo .db com entradas de interesse
-=======
-- arquivo .db com entradas de interesses
->>>>>>> 23d1fa35f0e81901af7a39c01e35ad1a1834c85c
 - arquivo .ipynb com relatório contendo gráficos e insights sobre dados utilizados.
 
 ## Extra
