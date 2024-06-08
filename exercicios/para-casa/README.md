@@ -19,6 +19,10 @@ Arquivos que devem ser submetidos:
 - arquivo .db com entradas de interesse (caso aluna esteja  queira usar outro além de SQLite, alinhar)
 - arquivo .ipynb com relatório contendo gráficos e insights sobre dados utilizados.
 
+## Extra
+
+Crie uma função que, a partir do dataset escolhido, crie um DataFrame, faça o tratamento dos dados e, por fim, exiba uma visualização gráfica.
+
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
 - [ ] Fiz o fork do repositório.

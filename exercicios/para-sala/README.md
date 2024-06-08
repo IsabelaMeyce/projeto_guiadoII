@@ -28,10 +28,6 @@ Arquivos submetidos:
 
 Esse é apenas um guia para facilitar o início do seu projeto. Procure um dataset de sua preferência ou use o indicado. 
 
-## Extra
-
-Crie uma função que, a partir do dataset escolhido, crie um DataFrame, faça o tratamento dos dados e, por fim, exiba uma visualização gráfica.
-
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
 - [ ] Fiz o fork do repositório.
